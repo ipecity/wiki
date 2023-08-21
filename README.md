@@ -1,19 +1,37 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
+cover: .gitbook/assets/e1345339-1bdf-41d2-9d10-635fb53eac39-_1_.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-
-Welcome to TNS Brazil
+# 👋 Welcome to TNS Brazil!
 
 {% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+_"It’s easy to burn it all down. It’s exciting to do. You get the sense of transgression. You get the sense of doing it all collectively together. ‘We’re making history and destroying it’. But against that is transhumanism, where you’re going to the stars. You’re transcending this human body, we are doing brain-machine interface. We’re doing limb regeneration. We’re doing CRISPR, and we’re taking away all the limits, thus infinite frontier, immutable money, eternal life." Balaji S._
 {% endhint %}
 
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
 
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
+
+## What is TNS Brazil?
+
+We are a community that believes in the **power of technological innovation** and **human freedom** to **drive progress**.&#x20;
+
+Our vision is that legacy institutions are outdated for addressing the challenges of the 21st century. Therefore, we need digital-native institutions and startup societies to tackle global issues and unleash the full potential of humanity.
+
+
 
 <details>
 
