@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 Welcome to TNS Brazil!](README.md)
 
 ## About us
 
