@@ -24,7 +24,7 @@ layout:
 
 
 
-## What is TNS Brazil?
+## What is TNS Brazil
 
 We are a community that believes in the power of technological innovation and human ingenuity as the main drivers of progress and fairness.
 
