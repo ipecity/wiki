@@ -1,7 +1,11 @@
+---
+description: These are the foundational principles that guide our community.
+---
+
 # 💖 Our Values
 
 {% hint style="info" %}
-_We believe that when humans have the freedom to innovate and access to powerful technologies, we can reach unimaginable levels of prosperity and progress._
+_We believe that with access to powerful technologies and the freedom to innovate, humans can achieve unprecedented levels of prosperity and progress._
 {% endhint %}
 
 <details>
