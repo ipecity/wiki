@@ -2,7 +2,7 @@
 description: These are the foundational principles that guide our community.
 ---
 
-# 💖 Our Values
+# 💙 Our Values
 
 {% hint style="info" %}
 _We believe that with access to powerful technologies and the freedom to innovate, humans can achieve unprecedented levels of prosperity and progress._
