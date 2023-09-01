@@ -1,4 +1,4 @@
-# 🎯 What Are Our Goals
+# 🎯 Our Goals
 
 Our goal is to build a decentralized society with governance based on digital-native institutions, and whose citizens are highly aligned around the idea of human progress through technology and freedom.
 
