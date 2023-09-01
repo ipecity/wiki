@@ -2,6 +2,6 @@
 
 * [👋 What is TNS Brazil](README.md)
 * [💙 Our Values](values.md)
-* [⛏ Why now?](why-now.md)
+* [⛏ Why Now?](why-are-we-building-this.md)
 * [🎯 Our Goals](what-are-our-goals.md)
-* [⭐ Why Becoming a Member](why-becoming-a-member.md)
+* [⭐ Becoming a Member](becoming-a-member.md)

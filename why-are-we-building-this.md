@@ -1,4 +1,4 @@
-# ⛏ Why are we building this?
+# ⛏ Why Now?
 
 TNS Brazil was born out of a deep frustration with the stagnation and even deterioration of Western governance and culture.
 
