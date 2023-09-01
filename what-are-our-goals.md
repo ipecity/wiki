@@ -25,7 +25,7 @@ In essence, we’ll develop and foster an ecosystem of solutions that support di
 
 To ensure the sustainability of this startup society, a business model is needed. Although still in its early stages, we have already determined the direction.
 
-The organization's primary revenue source will be a Society-as-a-Service model. In other words, citizens who pass the selection process will pay an annual fee to access our passport card and enjoy our network of services and physical structures.
+The organization's primary revenue source will be a Society-as-a-Service model. In other words, citizens who pass the recruitment process will pay an annual fee to access our passport card and enjoy our network of services and physical structures.
 
 We will explore additional revenue sources for our platform, including monthly fees for potential new services, digital jurisdiction for company incorporation, and sale/rental of real estate and land. These are just a few examples of the numerous opportunities offered by a society platform.
 
