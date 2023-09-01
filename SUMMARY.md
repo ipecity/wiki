@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 What is TNS Brazil](README.md)
+* [🇧🇷 What is TNS Brazil](README.md)
 * [💙 Our Values](values.md)
 * [⛏ Why Now?](why-are-we-building-this.md)
 * [🎯 Our Goals](what-are-our-goals.md)
