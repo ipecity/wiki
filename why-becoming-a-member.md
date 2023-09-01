@@ -1,4 +1,4 @@
-# Why Becoming a Member
+# ⭐ Why Becoming a Member
 
 We are in the early stages and seeking the first 100 founding members of this community. We recognize that these initial members will help shape the culture as we continue to grow. Therefore, we are searching for truly talented, optimistic, and innovative individuals who align with our vision and genuinely care about the problem we aim to solve.
 
