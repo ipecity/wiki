@@ -19,7 +19,7 @@ To achieve this, we have a long and still incomplete roadmap. However, all upcom
 
 Once we've established an aligned community, we can channel our internal energy toward developing and fostering the creation of aligned startups. This could encompass a wide range of areas, including governance platforms (e.g., AI allocating budgets for public goods), identity (e.g., on-chain ID with zero-knowledge proof), education (e.g., AI tutors for children), laws (e.g., smart contract marketplaces), as well as physical infrastructure/architecture, and even media, entertainment, and philanthropy companies.
 
-In essence, we’ll develop and foster an ecosystem of solutions that support native digital societies.
+In essence, we’ll develop and foster an ecosystem of solutions that support digital-native societies.
 
 **Economic Layer:**
 
