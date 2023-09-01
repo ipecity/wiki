@@ -5,7 +5,7 @@ We are in the early stages and seeking the first 100 founding members of this co
 There are 3 main reasons to become a member:
 
 1. You are deeply dissatisfied with the political and cultural status quo, have no strong political affiliations, and want to be part of building a prosperous society that is better suited to the digital age.
-2. You want to connect with international leaders and collaborate with optimistic and ambitious individuals such as builders, entrepreneurs, artists, educators, technologists, and scientists who are aligned with ideas of freedom and innovation, and become a member.
+2. You want to connect with international leaders and collaborate with optimistic and ambitious individuals such as builders, entrepreneurs, artists, educators, technologists, students, authors, and scientists who are aligned with ideas of freedom and innovation.
 3. You want access to benefits, including event discounts, exclusive content, a network of services, co-working spaces, and potentially housing, physical infrastructure, and special jurisdictions to build startups.
 
 To become a member of TNS Brazil, you must complete an application. The objective of this process is to identify whether you align with our values, share our vision for the future, commit to some regular activities, and accept our community guidelines.
