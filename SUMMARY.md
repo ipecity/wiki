@@ -1,7 +1,13 @@
 # Table of contents
 
+## START HERE
+
 * [🇧🇷 What is TNS Brazil](README.md)
-* [⛏ Why Now?](why-are-we-building-this.md)
-* [🎯 Our Goals](what-are-our-goals.md)
-* [💙 Our Values](values.md)
-* [⭐ Becoming a Member](becoming-a-member.md)
+* [⛏ Why Now?](start-here/why-now.md)
+* [🎯 Our Goals](start-here/our-goals.md)
+* [💙 Our Values](start-here/values.md)
+* [⭐ Becoming a Member](start-here/becoming-a-member.md)
+
+## COMMUNITY
+
+* [✅ Community Guidelines](community/community-guidelines.md)
