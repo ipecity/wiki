@@ -16,3 +16,4 @@ The following are our rules and guidelines on how to behave within our online an
 1. Personal attacks will not be tolerated and may result in either temporary or permanent suspension, at the discretion of the core team.
 2. We welcome and encourage debates and counter-arguments that align with our core values.
 3. Always be kind and respectful, even when disagreeing with other members.
+4. We are really **committed to PULSEs** and will avoid missing them at all costs.
