@@ -29,7 +29,7 @@ If you have a pulse, you're alive. The pulse radiates from the core (your heart)
 
 Now moving away from the metaphorical, we believe the Pulse will accomplish all these things: nurture the organization, bring everyone together and keep everyone in sync and building towards the same direction
 
-Also, as cool as the concept is, the name "collective action" is a little dull, we prefer Pulse 😉
+Also, as cool as the concept is, the name "collective action" is a little dull! We prefer Pulse 😉
 
 ## Format, timeframe and specifics
 
