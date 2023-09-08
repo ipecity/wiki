@@ -11,3 +11,7 @@
 ## COMMUNITY
 
 * [✅ Community Guidelines](community/community-guidelines.md)
+
+## PULSE
+* [Pulse FAQ](pulse-faq.md)
+* [Pulse](pulse.md) 
