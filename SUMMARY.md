@@ -13,5 +13,6 @@
 * [✅ Community Guidelines](community/community-guidelines.md)
 
 ## PULSE
-* [❓Pulse FAQ](pulse-faq.md)
-* [↗️ Pulse](pulse.md) 
+
+* [↗ Pulse FAQ](pulse/pulse-faq.md)
+* [⏱ Pulse](pulse/pulse.md)
