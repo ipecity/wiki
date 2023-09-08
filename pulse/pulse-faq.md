@@ -1,5 +1,5 @@
 # Pulse FAQ
-This is a simple question & answers to help you fully understand the Pulse
+This is a simple question & answers to help you fully understand the Pulse.
 
 
 <details open>
