@@ -10,7 +10,7 @@ There are 3 main reasons to become a member:
 
 To become a member of TNS Brazil, you must complete an application. The objective of this process is to identify whether you align with our values, share our vision for the future, commit to some regular activities, and accept our community guidelines.
 
-### 📃 [Apply to TNS Brazil Here](https://forms.gle/ACthb12k8HB8FTFP7)
+### 📃 [Apply to TNS Brazil Here](https://forms.gle/C82bXxvKfDiFpowB9)
 
 After submitting the application, you will be notified of the result, which could be declined, waitlisted, or approved.
 
