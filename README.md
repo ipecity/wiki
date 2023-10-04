@@ -28,6 +28,6 @@ Our vision is that nation-states are failing us and can't be reformed. Not becau
 
 Ipê City is our initiative to advance that vision.
 
-Our goal is to build a community-owned startup society that runs on top of Internet-native institutions, such as open protocols and blockchains, and is comprised of an international network of physical nodes where the community can talk, meet, work, and live alongside members who share the same vision and values.
+Our goal is to build a community-owned startup city that runs on top of Internet-native institutions, such as open protocols and blockchains, and is comprised of an international network of physical nodes where the community can talk, meet, work, and live alongside members who share the same vision and values.
 
 Read our launching [blog post here](https://news.peerbase.xyz/p/introducing-ipe-city).

@@ -1,6 +1,6 @@
 # ⛏ Why Now?
 
-TNS Brazil was born out of a deep frustration with the stagnation and even deterioration of Western governance and culture.
+Ipê City was born out of a deep frustration with the stagnation and even deterioration of Western governance and culture.
 
 Governments and state institutions are rapidly declining, marked by a lack of basic service quality, increasing bureaucracy, escalating human rights violations, infringements on individual freedoms, infrastructure deterioration, a failing basic education system, inflation, and a myriad of other failures.
 
