@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🇧🇷 What is TNS Brazil
+# 🇧🇷 What is Ipê City
 
 > _It’s easy to burn it all down. It’s exciting to do. You get the sense of transgression. You get the sense of doing it all collectively together. ‘We’re making history and destroying it’. But against that is transhumanism, where you’re going to the stars. You’re transcending this human body, we are doing brain-machine interface. We’re doing limb regeneration. We’re doing CRISPR, and we’re taking away all the limits, thus infinite frontier, immutable money, eternal life." Balaji S._
 
@@ -26,6 +26,8 @@ We are a community that believes in the power of technological innovation and hu
 
 Our vision is that nation-states are failing us and can't be reformed. Not because of the lack of good ideas or competent politicians, but because of the very nature of this institution, which is not suited to the challenges and new assumptions of the digital age. In light of this, we need startup societies and governance competition to rethink and innovate our institutions for the 21st century.
 
-TNS Brazil is our initiative to advance that vision.
+Ipê City is our initiative to advance that vision.
 
 Our goal is to build a community-owned startup society that runs on top of Internet-native institutions, such as open protocols and blockchains, and is comprised of an international network of physical nodes where the community can talk, meet, work, and live alongside members who share the same vision and values.
+
+Read our launching [blog post here](https://news.peerbase.xyz/p/introducing-ipe-city).
