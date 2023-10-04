@@ -13,7 +13,7 @@ _We believe that with access to powerful technologies and the freedom to innovat
 <summary>🚀 Pro-Technological Innovation</summary>
 
 * We value and get inspired by **innovators and entrepreneurs** pushing the boundaries of new **technological frontiers.**
-* We are enthusiastic about **gene therapy, open blockchains, AI, drones, self-driving cars, space exploration, digital-first education, digital-native political institutions, startup societies, and other emerging technologies**.
+* We are enthusiastic about **gene therapy, open blockchains, AI, drones, self-driving cars, space exploration, digital-first education, digital-native political institutions, startup societies**, and other emerging technologies.
 * We see technology as a future of **abundance** and **sustainable economic growth**, instead of a zero-sum resource-finite mentality.
 * We **reject all anti-progress ideas**, such as [degrowth](https://en.wikipedia.org/wiki/Degrowth), [anarco-primitivism](https://en.wikipedia.org/wiki/Anarcho-primitivism), [wokeism](https://boghossian.substack.com/p/woke-religion-a-taxonomy), and [techlash](https://eriktorenberg.substack.com/p/the-techlash-that-never-happened).
 
@@ -25,7 +25,7 @@ _We believe that with access to powerful technologies and the freedom to innovat
 
 * We value **freedom of speech** and the right to openly discuss ideas and controversial topics.
 * We value the **freedom to transact** and support open and decentralized mechanisms of coordination instead of coercive and centralized systems.
-* We value **freedom of association**, entrepreneurship, and the right to seamlessly start new businesses.
+* We value **freedom of association**, both in entrepreneurship, where individuals have the right to seamlessly start new businesses, and in social settings, where there should be no discrimination based on gender, race, religion, sexual orientation, or nationality.
 * We value **opt-in societies** with clear rules and easy paths to exit.
 * We stand up for the right to **privacy**.
 * We **reject any type of authoritarianism**, from socialism and wokeism to fascism, nazism, and militarism.
