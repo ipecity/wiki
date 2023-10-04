@@ -8,7 +8,7 @@ Pulses are a fundamental building block for startup societies and the future of 
 * We will unveil Pulses in the **Pulse channel** of our Discord.
 * Each Pulse will be carried out in a **24-hour window**. Which means you'll have one day to execute the proposed task.
 * The initial tasks will involve liking and sharing a post on Twitter (X). The objective is to leverage the power of our expanding community to enhance distribution and reach.
-* You have the opportunity to **submit your own content** (aligned with our values and goals) for a Pulse in the **Queue channel**. The community will vote to approve and prioritize them.
+* You have the opportunity to **submit your own content** (aligned with our values and goals) for a Pulse in the **Pulse channel**. The community will vote to approve and prioritize them.
 * Pulses provide a great opportunity for members who want to grow their social media presence and reach a larger audience for their blog or website.
 *   In order to submit a Pulse proposal, **you must have participated in all of the last 10 Pulses**.
 
