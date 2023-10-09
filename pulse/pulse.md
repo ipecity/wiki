@@ -18,7 +18,7 @@ As detailed in the following section, these will consist of very simple tasks wh
 
 The best way to picture it is to imagine you were stranded in a desert island with a couple of people, fighting for survival together. How would others treat you if you didn't pull your weight? If you were to stay bathing in the sun while others worked, hunted, and built? That's what you can expect if you don't contribute to the PULSE. The good news is, as we've said before, it'll be an exceedingly simple and quick task, so no matter how busy you are, you will be able to contribute.
 
-Refer to the [FAQ](pulse-faq.md) for further details!
+Refer to the [FAQ](broken-reference) for further details!
 
 ## Why "Pulse"?
 

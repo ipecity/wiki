@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🇧🇷 What is Ipê City
+# 🌼 What is Ipê City
 
 > _It’s easy to burn it all down. It’s exciting to do. You get the sense of transgression. You get the sense of doing it all collectively together. ‘We’re making history and destroying it’. But against that is transhumanism, where you’re going to the stars. You’re transcending this human body, we are doing brain-machine interface. We’re doing limb regeneration. We’re doing CRISPR, and we’re taking away all the limits, thus infinite frontier, immutable money, eternal life." Balaji S._
 

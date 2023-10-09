@@ -16,4 +16,3 @@
 
 * [🫀 What is PULSE?](pulse/pulse.md)
 * [⏰ How does it work?](pulse/how-does-it-work.md)
-* [↗ Pulse FAQ](pulse/pulse-faq.md)
