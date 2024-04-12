@@ -9,15 +9,13 @@ There are 4 main reasons to become a member:
 3. You want access to benefits, including event discounts, exclusive content, a network of services, and potentially co-working spaces, housing, physical infrastructure, and access to special jurisdictions to build startups on the frontier.
 4. You envision a future where you live in a modern and digital city, with free access to smart regulations and cutting-edge technology such as life extension, cryptocurrency, and AI. A future where you are not hindered by restrictive laws that impede progress or entrepreneurship.
 
-
-
 To become a member of TNS Brazil, you must complete an application. The objective of this process is to identify whether you align with our values, share our vision for the future, commit to some regular activities, and accept our community guidelines.
 
 ### 📃 [Apply to Ipê City Here](https://forms.gle/C82bXxvKfDiFpowB9)
 
 
 
-After submitting the application, you will be notified of the result, which could be declined, waitlisted, or approved.
+After applying, you will be notified of the result, which could be **declined**, **waitlisted**, or **approved**.
 
 Once approved, you will sign an annual plan, receive an NFT as an Ipê City Member, and gain access to our Discord Server.
 
