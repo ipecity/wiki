@@ -10,19 +10,17 @@ Joining a startup society is a larger commitment than, say, joining a WhatsApp g
 
 This is something you already do but don't yet think of it in those terms. If you've filed your tax reports, enjoyed the weekend, or rolled your watch back 1 hour for daylight savings time, you have performed a collective action. This is not new, everyone does it, and not doing it can be taken very seriously. For instance, _you can get arrested if you fail to pay your taxes._
 
-This is particularly important for Startup Societies, no wonder it's literally within the first pages of the book. Beginnings are hard, and building up our execution capacity is crucial for success, following the [cloud first, land last](https://thenetworkstate.com/the-network-state-in-one-thousand-words) overall plan. We start out in the cloud and after growing the community in members and execution capacity we can start crowdfunding territory around the globe. If you haven't read the [1k word summary](https://thenetworkstate.com/the-network-state-in-one-thousand-words), now is a good time.
+This is particularly important for Startup Societies, which is no wonder it appears within the[ first pages of the book](https://thenetworkstate.com/the-network-state-in-one-sentence). We start out in the cloud, and after growing the community in both membership and execution capacity, we can then influence the physical world—whether by crowdfunding territory, passing pro-tech laws, or many other means.
 
-**Let's be clear - if there is no Pulse (collective action), there is no network state. Simple as that.**
+**Let's be clear - if there is no Pulse (collective action), there is no startup society. Simple as that.**
 
 As detailed in the following section, these will consist of very simple tasks which will take only a few minutes per week. However, we expect an adherence of 100%. Failing to deliver will permanently be on the member's record, will count against the member in the future, and in some extreme cases may lead to membership being revoked.
-
-The best way to picture it is to imagine you were stranded in a desert island with a couple of people, fighting for survival together. How would others treat you if you didn't pull your weight? If you were to stay bathing in the sun while others worked, hunted, and built? That's what you can expect if you don't contribute to the PULSE. The good news is, as we've said before, it'll be an exceedingly simple and quick task, so no matter how busy you are, you will be able to contribute.
 
 Refer to the [FAQ](broken-reference) for further details!
 
 ## Why "Pulse"?
 
-In many ways, startup societies are like living organisms, composed of individual entities contributing to a larger goal. Like anything that's alive, it needs resources to survive.
+In many ways, startup societies are like living organisms, composed of individual entities contributing to a larger goal. Like anything alive, it needs resources to survive.
 
 If you have a pulse, you're alive. The pulse radiates from the core (your heart) outwards, bringing life to all parts of the organism. When thinking about an organization, it's also important to keep everyone in sync and with their eyes on the ball. In bands, usually, the drummer wears an earpiece with a pulse that dictates the tempo of the song everyone is playing.
 
