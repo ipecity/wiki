@@ -1,6 +1,6 @@
 # 🎯 Our Goals
 
-Our goal is to build a decentralized society with governance based on digital-native institutions, and whose citizens are highly aligned around the idea of human progress through technology and freedom.
+Our goal is to build a decentralized society with crypto governance, and citizens highly aligned around the idea of human progress through technology and freedom.
 
 To achieve this, we need to build three layers: the social layer (culture/values/politics), the technological layer (governance/infrastructure), and the economic layer.
 
