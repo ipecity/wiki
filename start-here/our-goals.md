@@ -1,6 +1,6 @@
 # 🎯 Our Goals
 
-Our goal is to build a decentralized society with crypto governance, and citizens highly aligned around the idea of human progress through technology and freedom.
+Our goal is to build a network society with crypto governance, and citizens highly aligned around the idea of human progress through technology and freedom.
 
 To achieve this, we need to build three layers: the social layer (culture/values/politics), the technological layer (governance/infrastructure), and the economic layer.
 
@@ -12,12 +12,12 @@ To achieve this, we have a long and still incomplete roadmap. However, all upcom
 
 * **Talk:** Creating content and online discussion environments for learning about digital society, decentralized governance, cryptocurrencies, AI, biotech, and other emerging technologies.
 * **Meet:** Establishing in-person settings such as meetups, summits, conferences, popup villages, hackathons, and other gatherings. The goal is to facilitate deeper exchanges and the development of trust and bonds among members. Essentially, it is the creation of a decentralized network of ongoing in-person gatherings worldwide.
-* **Work:** Enabling online and in-person environments for developing medium-to-long-term open-source and onchain projects that propel the community toward our ultimate goal. To achieve this, we will establish a network of coworking spaces (online and physical), and innovative areas exclusively for members to collaborate and work on aligned projects.
-* **Live (5+ years):** If the community is successful, we can expand it by crowdfunding territories where members can settle and colive using the Ipê City passport. In other words, a network of villages, condominiums, cottages, and small towns worldwide where members can move, stay, and own property.
+* **Work (5+ years):** Enabling online and in-person environments for developing medium-to-long-term open-source and onchain projects that propel the community toward our ultimate goal. To achieve this, we will establish a network of coworking spaces (online and physical), and innovative areas exclusively for members to collaborate and work on aligned projects.
+* **Live (10+ years):** If the community is successful, we can expand it by crowdfunding territories where members can settle and colive using the Ipê City passport. In other words, a network of villages, condominiums, cottages, and small towns worldwide where members can move, stay, and own property.
 
 **Tech Layer:**
 
-Once we've established an aligned community, we can channel our internal energy toward developing and fostering the creation of aligned projects and startups. This could encompass a wide range of areas, including governance platforms (e.g., AI allocating budgets for public goods), identity (e.g., on-chain ID with zero-knowledge proof), education (e.g., AI tutors for children), laws (e.g., smart contract marketplaces), as well as physical infrastructure/architecture, and even media, entertainment, and philanthropy companies.
+As we build and foster the community, we will channel our internal energy toward developing and fostering the creation of aligned projects and startups. This could encompass a wide range of areas, including governance platforms (e.g., AI allocating budgets for public goods), identity (e.g., on-chain ID with zero-knowledge proof), education (e.g., AI tutors for children), laws (e.g., smart contract marketplaces), as well as physical infrastructure/architecture, and even media, entertainment, and philanthropy companies.
 
 In essence, we’ll develop and foster an ecosystem of solutions that support digital-native societies.
 
@@ -25,7 +25,7 @@ In essence, we’ll develop and foster an ecosystem of solutions that support di
 
 To ensure the sustainability of this startup society, a business model is needed. Although still in its early stages, we have already determined the direction.
 
-The organization's primary revenue source will be a Community-as-a-Service model. In other words, members who pass the recruitment process will pay an annual fee to access our passport card and enjoy our network of services and physical structures.
+Approved members from the recruitment process will pay an annual fee to access our network. Additionally, aligned brands can support the community through sponsorships and have their brands featured in our events and content.  &#x20;
 
 Moreover, we plan to launch a crypto token $IPE to capture the value created by the community including access, content, brand, land, tools, and other tangible or intangible assets. Initially, citizens will receive tokens for subscribing and collaborating, and they will play an internal social reputation role in the community.
 
