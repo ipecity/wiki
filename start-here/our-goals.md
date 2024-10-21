@@ -25,7 +25,9 @@ In essence, we’ll develop and foster an ecosystem of solutions that support di
 
 To ensure the sustainability of this startup society, a business model is needed. Although still in its early stages, we have already determined the direction.
 
-Approved members from the recruitment process will pay an annual fee to access our network. Additionally, aligned brands can support the community through sponsorships and have their brands featured in our events and content.  &#x20;
+Approved members from the recruitment process will pay **an annual fee** to access our network. Additionally, aligned brands can support the community through **sponsorships** and have their brands featured in our events and content.
+
+The revenue will be used to support the core team, leaders, and projects through **bounties**. &#x20;
 
 Moreover, we plan to launch a crypto token $IPE to capture the value created by the community including access, content, brand, land, tools, and other tangible or intangible assets. Initially, citizens will receive tokens for subscribing and collaborating, and they will play an internal social reputation role in the community.
 
