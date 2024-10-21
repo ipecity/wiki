@@ -24,10 +24,10 @@ layout:
 
 We are a community that believes in the power of technological innovation and human ingenuity as the main drivers of progress and fairness.
 
-Our vision is that nation-states are failing us and can't be reformed. Not because of the lack of good ideas or competent politicians, but because of the very nature of the institution, which runs on a 250-year-old operating system and it's not suited to the challenges and new assumptions of the digital age. In light of this, we need startup societies and governance competition to rethink and innovate our institutions for the 21st century.
+Our vision is that nation-states are failing us and can't be reformed. Not because of the lack of good ideas or competent politicians, but because of the very nature of the institution, which runs on a 250-year-old operating system and is not suited to the challenges and new assumptions of the digital age. In light of this, we need startup societies and governance competition to rethink and innovate our institutions for the 21st century.
 
 Ipê City is our initiative to advance that vision.
 
-We aim to build a community of innovators, entrepreneurs, crypto engineers, and network state enthusiasts to help think and create the future of governance.
+We are building a community of techno-optimistic innovators, entrepreneurs, crypto engineers, and network state enthusiasts to help build a network society.
 
 Read our launching [blog post here](https://news.peerbase.xyz/p/introducing-ipe-city).
