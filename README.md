@@ -1,6 +1,6 @@
 ---
 description: This is a work-in-progress documentation about our community.
-cover: .gitbook/assets/e1345339-1bdf-41d2-9d10-635fb53eac39-_1_.png
+cover: .gitbook/assets/Ipê CAST (Presentation) (8).png
 coverY: 0
 layout:
   cover:
