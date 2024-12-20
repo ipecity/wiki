@@ -13,7 +13,7 @@
 Ipê Village is a one-month coliving and coworking space that will bring together 150 talents to prototype a new city and its governance system, leveraging digital and decentralized technologies to address longstanding societal challenges such as chronic poverty and the rise of human rights violations.
 
 {% hint style="warning" %}
-<mark style="background-color:orange;">It is part of Ipê City's long-term vision to build social technologies for a new city. You can read more about the project in the next sections.</mark>
+<mark style="background-color:yellow;">**It is a step forward in Ipê City's long-term plan to build social technologies for a new city. You can read more about the project in the next sections.**</mark>
 {% endhint %}
 
 We’ll **select** **creators, engineers, and entrepreneurs** to reimagine the city of the future and experiment with solutions for **governance, finance, education, health, and public safety**, which we call **parallel institutions**.

@@ -1,3 +1,3 @@
-# Pricing
+# 💲 Pricing
 
 (Soon)
