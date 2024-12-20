@@ -1,12 +1,12 @@
 # Table of contents
 
-## START HERE
+## IPÊ CITY
 
 * [🌼 What is Ipê City](README.md)
-* [⛏️ Why Now?](start-here/why-now.md)
-* [🎯 Our Goals](start-here/our-goals.md)
-* [💙 Our Values](start-here/values.md)
-* [⭐ Becoming a Member](start-here/becoming-a-member.md)
+* [⛏️ Why Now?](ipe-city/why-now.md)
+* [🎯 Our Goals](ipe-city/our-goals.md)
+* [💙 Our Values](ipe-city/values.md)
+* [⭐ Becoming a Member](ipe-city/becoming-a-member.md)
 
 ## COMMUNITY
 
@@ -16,3 +16,7 @@
 
 * [🫀 What is PULSE?](pulse/what-is-it.md)
 * [⏰ How does it work?](pulse/how-does-it-work.md)
+
+## Group 1
+
+* [IPÊ CITY](group-1/ipe-city.md)
