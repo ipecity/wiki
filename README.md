@@ -1,33 +1,21 @@
----
-description: This is a work-in-progress documentation about our community.
-cover: .gitbook/assets/Ipê CAST (Presentation) (8).png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# 🏗️ What It Is
 
-# 🌼 What is Ipê City
+Read the 📄 [full deck presentation here](https://drive.google.com/file/d/1Qh5jXkMuXBUfaY7CAf9ZmnSFicDk8LRq/view?usp=sharing)
 
-> _It’s easy to burn it all down. It’s exciting to do. You get the sense of transgression. You get the sense of doing it all collectively together. ‘We’re making history and destroying it’. But against that is transhumanism, where you’re going to the stars. You’re transcending this human body, we are doing brain-machine interface. We’re doing limb regeneration. We’re doing CRISPR, and we’re taking away all the limits, thus infinite frontier, immutable money, eternal life." Balaji S._
+**Apply** at [ipe.city/popup](http://ipe.city/popup)
 
-We are a community that believes in the power of technological innovation and human ingenuity as the main drivers of progress and fairness.
+**When**: April 22nd to May 22nd.
 
-Our vision is that nation-states are failing us and can't be reformed. Not because of the lack of good ideas or competent politicians, but because of the very nature of the institution, which runs on a 250-year-old operating system and is not suited to the challenges and new assumptions of the digital age. In light of this, we need startup societies and governance competition to rethink and innovate our institutions for the 21st century.
+**Where:** Jurere International - Florianópolis - Brazil
 
-Ipê City is our initiative to advance that vision.
+***
 
-We are building a community of techno-optimistic innovators, entrepreneurs, crypto engineers, and network state enthusiasts to help build a network society.
+Ipê Village is a one-month coliving and coworking space that will bring together 150 talents to prototype a new city and its governance system, leveraging digital and decentralized technologies to address longstanding societal challenges such as chronic poverty and the rise of human rights violations.
 
-Read our launching [blog post here](https://news.peerbase.xyz/p/introducing-ipe-city).
+We’ll **select** **creators, engineers, and entrepreneurs** to reimagine the city of the future and experiment with solutions for **governance, finance, education, health, and public safety**, which we call **parallel institutions**.
+
+Our main goals at the pop-up city are:
+
+1. Fostering a **techno-optimistic culture** that believes in freedom, progress, and fairness;
+2. Prototype a **new governance system** and **parallel institutions** leveraging digital and decentralized technologies for a **new city**
+

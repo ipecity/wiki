@@ -1,8 +1,20 @@
 # Table of contents
 
+## IPÊ VILLAGE FLORIPA
+
+* [🏗️ What It Is](README.md)
+* [🚀 Why Is It Important?](ipe-village-floripa/why-is-it-important.md)
+* [👩‍🔬 Our Concrete Vision](ipe-village-floripa/our-concrete-vision.md)
+* [🛠️ How To Collaborate?](ipe-village-floripa/how-to-collaborate.md)
+* [✅ How Will Ipê Village Work?](ipe-village-floripa/how-will-ipe-village-work.md)
+* [📅 When and Where will the Ipê Village take place?](ipe-village-floripa/when-and-where-will-the-ipe-village-take-place.md)
+* [🌍 Why join the pop-up city?](ipe-village-floripa/why-join-the-pop-up-city.md)
+* [📝 Pre-register Now And Join Hundreds of Builder](ipe-village-floripa/pre-register-now-and-join-hundreds-of-builder.md)
+* [Pricing](ipe-village-floripa/pricing.md)
+
 ## IPÊ CITY
 
-* [🌼 What is Ipê City](README.md)
+* [🌼 What is Ipê City](<README (1).md>)
 * [⛏️ Why Now?](ipe-city/why-now.md)
 * [🎯 Our Goals](ipe-city/our-goals.md)
 * [💙 Our Values](ipe-city/values.md)
@@ -16,7 +28,3 @@
 
 * [🫀 What is PULSE?](pulse/what-is-it.md)
 * [⏰ How does it work?](pulse/how-does-it-work.md)
-
-## Group 1
-
-* [IPÊ CITY](group-1/ipe-city.md)
