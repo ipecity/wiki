@@ -1,6 +1,6 @@
 # 🏗️ What It Is
 
-Read the 📄 [full deck presentation here](https://drive.google.com/file/d/1Qh5jXkMuXBUfaY7CAf9ZmnSFicDk8LRq/view?usp=sharing)
+**Read the** 📄 [full deck presentation here](https://drive.google.com/file/d/1Qh5jXkMuXBUfaY7CAf9ZmnSFicDk8LRq/view?usp=sharing)
 
 **Apply** at [ipe.city/popup](http://ipe.city/popup)
 
