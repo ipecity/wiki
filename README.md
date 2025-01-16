@@ -2,7 +2,7 @@
 
 **Read the** 📄 [full presentation here](https://www.canva.com/design/DAGcTaQjtBM/hcde6Hx1Wy0MQVvOL79MRw/view?utm_content=DAGcTaQjtBM\&utm_campaign=designshare\&utm_medium=link2\&utm_source=uniquelinks\&utlId=hfc00cafbcb)
 
-**Read the** :moneybag: [Sponsorship Deck](https://www.canva.com/design/DAGWlvp_AJI/RH687OX7dSHx2dageve45w/view?utm_content=DAGWlvp_AJI\&utm_campaign=designshare\&utm_medium=link2\&utm_source=uniquelinks\&utlId=h77f0cbb489)
+**Read the** :moneybag: [Sponsorship Deck](https://ipe.city/deck)
 
 **Apply** at [ipe.city/popup](http://ipe.city/popup)
 
