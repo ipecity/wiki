@@ -4,7 +4,7 @@ Follow these steps:
 
 #### 1️⃣ Pre-register
 
-Go to [**ipe.city/popup**](http://ipe.city/popup) and pre-register, filling out your social media and mini bio. Link in the green button above.
+Go to [**ipe.city/popup**](http://ipe.city/popup) and pre-register, filling out your social media and a mini bio. Link in the green button above.
 
 #### 2️⃣ Application Process
 
@@ -14,7 +14,7 @@ You will receive the Application Process in your email within a few days. Read c
 
 Once approved, choose an Ipê Passport option and finish the payment (prices and packages soon).
 
-#### 4️⃣ Join Ipê Discord
+#### 4️⃣ Join our Ipê [Discord Server](https://discord.gg/QKwh8deMPx) and our [Telegram](https://t.me/+kmGbiSj7XFRhZjUx)
 
 You will be granted access to Ipê Village channels to connect with other residents.
 
