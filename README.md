@@ -20,7 +20,7 @@ Ipê Village is a one-month coliving and coworking space that will bring togethe
 <mark style="background-color:yellow;">**It is a step forward in Ipê City's long-term plan to build social technologies for a new city. You can read more about the project in the next sections.**</mark>
 {% endhint %}
 
-We’ll **select** **creators, engineers, and entrepreneurs** to reimagine the city of the future and experiment with solutions for **governance, finance, education, health, and public safety**, which we call **parallel institutions**.
+We’ll **select** **creators, engineers, and entrepreneurs** to reimagine the city of the future and experiment with solutions for **governance, finance, education, and health** which we call **parallel institutions**.
 
 Our main goals at the pop-up city are:
 
