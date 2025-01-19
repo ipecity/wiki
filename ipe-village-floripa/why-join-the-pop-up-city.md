@@ -2,7 +2,7 @@
 
 #### 1️⃣ Make a Positive Impact with Technology not Conventional Politics
 
-* Startup societies can create leaner governments, including the community at the core of the decision-making, and enable social development for underprivileged sectors.
+* Startup societies create leaner governments, include the community at the core of the decision-making, and drive social development for the underprivileged.
 
 #### 2️⃣ **Learn and Earn**
 
