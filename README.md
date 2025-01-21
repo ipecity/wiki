@@ -8,7 +8,7 @@
 
 **When**: April 22nd to May 22nd.
 
-**Where:** Jurere International - Florianópolis - Brazil
+**Where:** [Founder Haus](https://maps.app.goo.gl/pDhugBPR5oFUKHF96), Jurere International - Florianópolis - Brazil.&#x20;
 
 **Watch** [The Network Society Documentary's first episode](https://www.youtube.com/watch?v=8KhnY7Uk2es) to get a fast introduction to the subject.
 
