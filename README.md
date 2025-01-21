@@ -4,7 +4,7 @@
 
 **Read the** :moneybag: [Sponsorship Deck](https://ipe.city/deck)
 
-**Apply** at [ipe.city/popup](http://ipe.city/popup)
+**Apply** at [ipe.city/apply](https://ipe.city/apply)
 
 **When**: April 22nd to May 22nd.
 
