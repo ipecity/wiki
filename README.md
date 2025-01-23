@@ -2,15 +2,15 @@
 
 **Read the** 📄 [Full Presentation here](https://www.canva.com/design/DAGcTaQjtBM/hcde6Hx1Wy0MQVvOL79MRw/view?utm_content=DAGcTaQjtBM\&utm_campaign=designshare\&utm_medium=link2\&utm_source=uniquelinks\&utlId=hfc00cafbcb)
 
-**Read the** :moneybag: [Sponsorship Deck](https://ipe.city/deck)
-
-**Pre-register** at [**Luma**](https://lu.ma/s331m12v)**. (**[**https://lu.ma/s331m12v**](https://lu.ma/s331m12v)**)**
+**Read the** :moneybag: [Sponsorship Deck](https://ipe.city/deck)&#x20;
 
 **When**: April 22nd to May 22nd.
 
 **Where:** [Founder Haus](https://maps.app.goo.gl/pDhugBPR5oFUKHF96), Jurere International - Florianópolis - Brazil.&#x20;
 
 **Watch** [The Network Society Documentary's first episode](https://www.youtube.com/watch?v=8KhnY7Uk2es) to get a fast introduction to the subject.
+
+:arrow\_right: [**APPLY NOW HERE**](https://tally.so/r/mVv09M)
 
 ***
 
