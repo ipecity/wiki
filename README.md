@@ -4,7 +4,7 @@
 
 **Read the** :moneybag: [Sponsorship Deck](https://ipe.city/deck)
 
-**Apply** at [ipe.city/apply](https://ipe.city/apply)
+**Pre-register** at [**Luma**](https://lu.ma/s331m12v)**. (**[**https://lu.ma/s331m12v**](https://lu.ma/s331m12v)**)**
 
 **When**: April 22nd to May 22nd.
 
