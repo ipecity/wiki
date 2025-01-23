@@ -2,17 +2,17 @@
 
 Follow these steps:
 
-#### 1️⃣ Pre-register
+#### 1️⃣ Pre-register at the Luma Event&#x20;
 
-Go to [**ipe.city/popup**](http://ipe.city/popup) and pre-register, filling out your social media and a mini bio. Link in the green button above.
+Go to the [Luma Event](https://lu.ma/s331m12v) and pre-register, filling out your email, and social media accounts.
 
-#### 2️⃣ Application Process
+#### 2️⃣ Fill out the Application Form&#x20;
 
-You will receive the Application Process in your email within a few days. Read carefully, fill it out, and wait for the result.
+:arrow\_forward: [APPLY HERE](https://tally.so/r/mVv09M). Read it carefully, fill it out, and wait for the result.
 
 #### 3️⃣ Ipê Passport:
 
-Once approved, choose an Ipê Passport option and finish the payment (prices and packages soon).
+Within 48 hours, you will receive your response. If approved, you will also receive a link for payment.
 
 #### 4️⃣ Join our Ipê [Discord Server](https://discord.gg/QKwh8deMPx) and our [Telegram](https://t.me/+kmGbiSj7XFRhZjUx)
 
@@ -20,7 +20,7 @@ You will be granted access to Ipê Village channels to connect with other reside
 
 #### 5️⃣ Book Your Stay
 
-Residents are responsible for hosting, but we'll share a list of discounted hotels and Airbnbs and help match those interested in sharing a room or house.
+Residents are responsible for hosting. You can book a hotel or Airbnb. To optimize costs, you can coordinate with other residents to share a house or room. You should stay near the [Founder Haus](https://maps.app.goo.gl/CvcofEdgswG2k5o57) address, within a maximum of a 10-minute walk.
 
 #### 6️⃣ You Are All Set Up!
 
