@@ -4,7 +4,7 @@ description: Prices are increaded in 5% every 2 weeks
 
 # 💲 Pricing
 
-<mark style="background-color:green;">**Valid until Jan 31st (+5% / Second Cohort)**</mark>
+<mark style="background-color:green;">**Valid until Feb 16th (+5% / Second Cohort)**</mark>
 
 | Plan                                               | Florianopolis | Brazil     | International |
 | -------------------------------------------------- | ------------- | ---------- | ------------- |
