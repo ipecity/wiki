@@ -14,16 +14,16 @@
 
 ***
 
-Ipê Village is a one-month coliving and coworking space that will bring together 150 talents to prototype a new city and its governance system, leveraging digital and decentralized technologies to address longstanding societal challenges such as chronic poverty and the rise of human rights violations.
+Ipê Village is a month-long experimental city where 150-200 selected global talents will colive, learn, and prototype solutions for the city of the future and its governance system, leveraging AI and blockchain technologies.
 
 {% hint style="warning" %}
 <mark style="background-color:yellow;">**It is a step forward in Ipê City's long-term plan to build social technologies for a new city. You can read more about the project in the next sections.**</mark>
 {% endhint %}
 
-We’ll **select** **creators, engineers, and entrepreneurs** to reimagine the city of the future and experiment with solutions for **governance, finance, education, and health** which we call **parallel institutions**.
+We’ll **select** **creators, specialists, engineers, and entrepreneurs** to reimagine the city of the future and experiment with solutions for **governance, finance, education, and health** which we call **parallel institutions**.
 
 Our main goals at the pop-up city are:
 
 1. Fostering a **techno-optimistic culture** that believes in freedom, progress, and fairness;
-2. Prototype a **new governance system** and **parallel institutions** leveraging digital and decentralized technologies for a **new city**
+2. Prototype a **new governance system** and **parallel institutions** leveraging digital and decentralized technologies **to address longstanding societal challenges** such as chronic poverty, inefficient healthcare, and the rise of human rights violations.
 
