@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📅 When and Where will the Ipê Village take place?
 
 <mark style="background-color:orange;">**When: from April 22nd to May 22nd**</mark>

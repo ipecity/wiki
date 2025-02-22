@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🌍 Why join the pop-up city?
 
 #### 1️⃣ Make a Positive Impact with Technology not Conventional Politics

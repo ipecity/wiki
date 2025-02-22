@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✅ How Will Ipê Village Work?
 
 Ipê Village is a temporary small city where you are going to live and participate in innovative projects.

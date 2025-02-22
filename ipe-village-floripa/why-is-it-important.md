@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🚀 Why Is It Important?
 
 Our **Governance systems** are &#x62;_&#x75;ilt on a **250-year-old operating system** consisting of **political institutions**, based on **social constructs** and **papers,** and secured by **guns**._
