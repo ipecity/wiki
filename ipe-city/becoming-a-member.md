@@ -11,7 +11,7 @@ We are in the early stages and seeking the first 100 founding members of this co
 
 To become a member of Ipê City, you must complete an application. The objective of this process is to identify whether you align with our values, share our vision for the future, commit to some regular activities, and accept our community guidelines.
 
-### 📃 [Apply to Ipê City Here](https://forms.gle/C82bXxvKfDiFpowB9)
+### 📃 [Apply to Ipê City Here](https://tally.so/r/mVv09M) (For Now, Apply to Ipê Village)
 
 After applying, you will be notified of the result, which could be **declined**, **waitlisted**, or **approved**.
 
