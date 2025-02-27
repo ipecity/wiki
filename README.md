@@ -1,5 +1,7 @@
 # 🏗️ What It Is
 
+:arrow\_right: **APPLY NOW <<**[**HERE**](https://tally.so/r/mVv09M)**>>**
+
 :earth\_americas: **Main website:**  [**ipe.city**](https://ipe.city)
 
 📄 **Read the** [Full Presentation here](https://www.canva.com/design/DAGcTaQjtBM/hcde6Hx1Wy0MQVvOL79MRw/view?utm_content=DAGcTaQjtBM\&utm_campaign=designshare\&utm_medium=link2\&utm_source=uniquelinks\&utlId=hfc00cafbcb)
@@ -12,7 +14,7 @@
 
 :movie\_camera: **Watch** [The Network Society Documentary's first episode](https://www.youtube.com/watch?v=8KhnY7Uk2es) to get a fast introduction to the subject.
 
-:arrow\_right: **APPLY NOW** [**HERE**](https://tally.so/r/mVv09M)
+&#x20;:art: **Social Materials:** [Ipê Branding](https://www.figma.com/design/nNUYFNYrYsHDaQZfVA3GaS/Ip%C3%AA-City-Branding)&#x20;
 
 ***
 
@@ -54,14 +56,14 @@ We believe they can.
 
 Over this month, you have access to a 3-day Conference, Weekly Buildathons, and several small summits, workshops, meetups, fitness sessions, and other fun activities.
 
-**Week 1 (April 25th - to April 27th) - Startup Society Conference II -** talks and panel sessions with the thought leaders and entrepreneurs from the Network State industry.
+**Week 1 - Onboarding, Networking and Startup Society Conference II (April 25th - April 27th) -** talks and panel sessions with thought leaders and entrepreneurs from the startup society, crypto and AI industries.
 
-**Week 2 - Week 4 (Weekly Buildathons)** - co-create alongside other Ipê Architects tech solutions for Health, Education, Governance, and Finance. Each week, you'll have the opportunity to pitch an idea to the community, build a prototype solo or with a team, and showcase it at the end. **.** &#x20;
+**Week 2 - Week 4 (Weekly Buildathons)** - co-create alongside other Ipê Architects tech solutions for Health, Education, Governance, and Finance. Each week, you'll have the opportunity to pitch an idea to the community, build a prototype solo or with a team, and showcase it at the end.
 
 **A few notes about the experience:**
 
 * If you are an **Ipê Architect (3-week builder resident)**, we’ll require **weekly progress** of your project, and in the last week, **present your results** to the city residents, partners, and investors
-* Every **Ipê Architect** will be able to **apply for grants** for projects and content.
+* Every **Ipê Architect** can **apply for grants** for projects and content.
 * There will be an open calendar to **organize your own events**, such as meetups, workshops, barbecues, parties, workouts, fitness sessions, tourism, and more.
 * During your stay, **you’ll be able to continue working remotely at your regular job** while participating in popup activities during your free time.
 
@@ -85,7 +87,7 @@ We suggest you coordinate in our telegram with other residents to share a house 
 
 ## :earth\_americas: <mark style="background-color:yellow;">Why Join Us?</mark>
 
-#### :computer: Make a Positive Impact with Technology not Conventional Politics
+#### :computer: Make a Positive Impact with Technology, not Conventional Politics
 
 Startup societies create leaner governments, include the community at the core of the decision-making, and drive social development for the underprivileged.
 
@@ -99,7 +101,7 @@ Build projects in a space with abundant funding and partnership opportunities. E
 
 #### :people\_holding\_hands: Connect with Like-Minded Ambitious People
 
-Meet optimistic and talented people who value innovation, freedom, and progress. Connect with builders from worldwide with diverse backgrounds and pluralistic cultures.
+Meet optimistic and talented people who value innovation, freedom, and progress. Connect with builders from around the world with diverse backgrounds and pluralistic cultures.
 
 ## :pencil:<mark style="background-color:yellow;">How to Apply</mark>
 
