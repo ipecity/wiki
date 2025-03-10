@@ -4,7 +4,7 @@ description: Prices are increaded in 5% every 2 weeks
 
 # 💲 Pricing
 
-<mark style="background-color:green;">**Valid until Apr 22nd (Third Cohort)**</mark>
+<mark style="background-color:green;">**Valid until Apr 22nd (Fourth Cohort)**</mark>
 
 | Plan                                               | Florianopolis | Brazil  | International |
 | -------------------------------------------------- | ------------- | ------- | ------------- |
@@ -12,7 +12,7 @@ description: Prices are increaded in 5% every 2 weeks
 | Full Experience (3+ weeks) - City Explorer/Visitor | R$2,315       | R$2,893 | $694          |
 | Per Week                                           | R$867         | R$1157  | $404          |
 
-<mark style="background-color:green;">**Valid until Mar 9th (Third Cohort)**</mark>
+~~<mark style="color:red;background-color:green;">**Valid until Mar 9th (Third Cohort)**</mark>~~
 
 | Plan                                               | Florianopolis | Brazil | International |
 | -------------------------------------------------- | ------------- | ------ | ------------- |
@@ -22,7 +22,7 @@ description: Prices are increaded in 5% every 2 weeks
 
 **---------------------------------------------------------------------------------------**
 
-**Valid until Feb 16th (+5% / Second Cohort)**
+~~<mark style="color:red;">**Valid until Feb 16th (+5% / Second Cohort)**</mark>~~
 
 | Plan                                               | Florianopolis | Brazil     | International |
 | -------------------------------------------------- | ------------- | ---------- | ------------- |
@@ -30,7 +30,7 @@ description: Prices are increaded in 5% every 2 weeks
 | Full Experience (3+ weeks) - City Explorer/Visitor | R$2,100.00    | R$2,625.00 | $630.00       |
 | Per Week                                           | R$787.50      | R$1,050.00 | $367.50       |
 
-<mark style="background-color:orange;">**Valid until Jan 18th (First Cohort)**</mark>
+~~<mark style="color:red;background-color:orange;">**Valid until Jan 18th (First Cohort)**</mark>~~
 
 <table><thead><tr><th width="248">Plan</th><th>Florianopolis</th><th>Brazil</th><th>International</th></tr></thead><tbody><tr><td>Full Experience (3+ weeks) - City Architect</td><td>R$1,400.00</td><td>R$1,750.00</td><td>$420.00</td></tr><tr><td>Full Experience (3+ weeks)<br>- Explorer/Visitor</td><td>R$2,000.00</td><td>R$2,500.00</td><td>$600.00</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td>Per Week</td><td>R$750.00</td><td>R$1,000.00</td><td>$350.00</td></tr><tr><td>Per Day</td><td>R$300.00</td><td>R$500.00</td><td>$220.00</td></tr></tbody></table>
 
