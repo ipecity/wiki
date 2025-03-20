@@ -9,7 +9,7 @@
 * [✅ How Will Ipê Village Work?](ipe-village-floripa/how-will-ipe-village-work.md)
 * [📅 When and Where will the Ipê Village take place?](ipe-village-floripa/when-and-where-will-the-ipe-village-take-place.md)
 * [🌍 Why join the pop-up city?](ipe-village-floripa/why-join-the-pop-up-city.md)
-* [💲 Pricing](ipe-village-floripa/pricing.md)
+* [💲 Pricing - Ipê Passports](ipe-village-floripa/pricing-ipe-passports.md)
 
 ## IPÊ CITY
 
