@@ -8,6 +8,8 @@ description: Prices are increaded in 5% every 2 weeks
 
 <table><thead><tr><th>Plan</th><th>Brazil</th><th>International</th><th data-hidden></th></tr></thead><tbody><tr><td>Ipê Architect - Full Experience (3+ weeks)</td><td>R$2,024</td><td>$486</td><td></td></tr><tr><td>Ipê Explorer - Full Experience (3+ weeks) - City Explorer/Visitor</td><td>R$2,893</td><td>$694</td><td></td></tr><tr><td>Ipê Explorer - Per Week</td><td>R$1157</td><td>$404</td><td></td></tr></tbody></table>
 
+**---------------------------------------------------------------------------------------**
+
 ~~<mark style="color:red;background-color:green;">**Valid until Mar 9th (Third Cohort)**</mark>~~
 
 | Plan                                               | Florianopolis | Brazil | International |
