@@ -1,6 +1,12 @@
 # 🏗️ What It Is
 
-:arrow\_right: **APPLY NOW <<**[**HERE**](https://tally.so/r/mVv09M)**>>**
+
+
+:construction\_site: **APPLY FOR IPÊ ARCHITECT NOW** :arrow\_right: [**HERE**](https://tally.so/r/mVv09M)
+
+:ticket: **BUY YOUR TICKETS FOR** :arrow\_right: [**IPÊ EXPLORER OR THE CONFERENCE**](https://ipe.city/#tickets)
+
+:hotel: **SECURE** **20% DISCOUNT FOR ACCOMMODATION** IN OUR :arrow\_right: [**HOTEL PARTNERS**](https://ipe.city/#hotels).
 
 :earth\_americas: **Main website:**  [**ipe.city**](https://ipe.city)
 
