@@ -4,7 +4,11 @@ description: Prices are increaded in 5% every 2 weeks
 
 # 💲 Pricing - Ipê Passports
 
-<mark style="background-color:green;">**Valid until March 22nd (Fourth Cohort)**</mark>
+<mark style="background-color:green;">**Valid until April 05th (Fifth Cohort)**</mark>
+
+<table><thead><tr><th>Plan</th><th>Brazil</th><th>International</th><th data-hidden></th></tr></thead><tbody><tr><td>Ipê Architect - Full Experience (3+ weeks)</td><td>R$2,125</td><td>U$510</td><td></td></tr><tr><td>Ipê Explorer - Full Experience (3+ weeks) - City Explorer/Visitor</td><td>R$3,037</td><td>U$728</td><td></td></tr><tr><td>Ipê Explorer - Per Week</td><td>R$1,214</td><td>U$424</td><td></td></tr></tbody></table>
+
+~~<mark style="color:red;background-color:green;">**Valid until March 22nd (Fourth Cohort)**</mark>~~
 
 <table><thead><tr><th>Plan</th><th>Brazil</th><th>International</th><th data-hidden></th></tr></thead><tbody><tr><td>Ipê Architect - Full Experience (3+ weeks)</td><td>R$2,024</td><td>$486</td><td></td></tr><tr><td>Ipê Explorer - Full Experience (3+ weeks) - City Explorer/Visitor</td><td>R$2,893</td><td>$694</td><td></td></tr><tr><td>Ipê Explorer - Per Week</td><td>R$1157</td><td>$404</td><td></td></tr></tbody></table>
 
