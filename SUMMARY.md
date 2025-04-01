@@ -10,6 +10,7 @@
 * [📅 When and Where will the Ipê Village take place?](ipe-village-floripa/when-and-where-will-the-ipe-village-take-place.md)
 * [🌍 Why join the pop-up city?](ipe-village-floripa/why-join-the-pop-up-city.md)
 * [💲 Pricing - Ipê Passports](ipe-village-floripa/pricing-ipe-passports.md)
+* [💲 How to pay any ticket in crypto](ipe-village-floripa/how-to-pay-any-ticket-in-crypto.md)
 
 ## IPÊ CITY
 
