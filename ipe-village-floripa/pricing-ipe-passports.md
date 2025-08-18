@@ -1,5 +1,5 @@
 ---
-description: Prices are increaded in 5% every 2 weeks
+description: Prices are increased in 5% every 2 weeks
 ---
 
 # 💲 Pricing - Ipê Passports
