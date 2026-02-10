@@ -1,4 +1,4 @@
-# 🏗️ What It Is
+# 🏗️ What Is Ipê Village
 
 ### TLDR
 
@@ -99,28 +99,15 @@ The Houses will host topics about the most powerful emerging technologies:
 
 ***
 
-## :moneybag: <mark style="background-color:yellow;">Grants, Rewards, and Opportunities</mark>
-
-**Architect residents** are eligible for:
-
-* <mark style="background-color:green;">**$10k+ in grants and prizes**</mark>
-* <mark style="background-color:green;">**A fully funded residency at The Network School Singapore**</mark>
-* **Token rewards** tied to contributions
-* **Onchain reputation**
-* Access to job opportunities and talent-partners matching
-* Access to investors and partners
-
-***
-
 ## :earth\_americas: <mark style="background-color:yellow;">Why Join Us?</mark>
 
 <mark style="background-color:blue;">**Build Real City Infrastructure**</mark>
 
 Design and deploy systems that run a real city, including digital identity, onchain governance, contribution tracking, grant distribution, public dashboards, marketplaces, and coordination tools. Your work is used by residents during the Village and can become permanent infrastructure for Ipê City and future internet-native cities.
 
-<mark style="background-color:blue;">**Access Grants, Funding, and Deployment Opportunities**</mark>
+<mark style="background-color:blue;">**Access Grants, Funding, and Token Rewards**</mark>
 
-Earn grants and rewards for building useful infrastructure. Top teams receive funding, ongoing support, and opportunities to continue developing their systems beyond the residency. Partners actively fund tools for identity, payments, governance, AI agents, data infrastructure, and public coordination.&#x20;
+Earn grants, token rewards, and funding for building useful infrastructure. Contributions are tracked onchain, allowing builders to earn tokens tied to their work and impact. Top teams receive financial support, ongoing backing, and opportunities to continue developing their systems beyond the residency.&#x20;
 
 {% hint style="info" %}
 **Architect residents** are eligible for:
@@ -133,13 +120,13 @@ Earn grants and rewards for building useful infrastructure. Top teams receive fu
 * Access to investors and partners
 {% endhint %}
 
-<mark style="background-color:blue;">**Join a Global Community of Builders and Founders**</mark>
+<mark style="background-color:blue;">**Join a Global Techno-Optimistic Community**</mark>&#x20;
 
 Work alongside engineers, startup founders, protocol designers, researchers, and infrastructure teams from around the world. Collaborate inside Hacker Houses focused on AI, crypto, governance, privacy, and coordination, and form teams to build products, startups, and open infrastructure.
 
-<mark style="background-color:blue;">**Help Prototype the Core Systems of Internet-Native Cities**</mark>
+<mark style="background-color:blue;">**Unlock Job and Career Opportunities**</mark>
 
-Experiment with new models for governance, public goods funding, digital identity, AI-assisted coordination, decentralized finance, and autonomous services. Contribute to building the operating systems of future cities, where services are programmable, transparent, and internet-native.
+We work actively to match the best talents with our global partners. Builders often receive job offers, join startups, find cofounders, or launch their own companies during or after the residency. Your work becomes a live portfolio, visible to partners, investors, and hiring teams.
 
 ***
 
