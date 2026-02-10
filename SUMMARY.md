@@ -2,7 +2,7 @@
 
 ## IPÊ VILLAGE 2026
 
-* [🏗️ What It Is](README.md)
+* [🏗️ What Is Ipê Village](README.md)
 * [🚀 Why Is It Important?](ipe-village-2026/why-is-it-important.md)
 * [👩‍🔬 Our Concrete Vision](ipe-village-2026/our-concrete-vision.md)
 * [🛠️ How To Collaborate?](ipe-village-2026/how-to-collaborate.md)
