@@ -18,4 +18,4 @@ $ICC is [Infinita City Credits](https://www.infinitacitytimes.com/p/partner-spot
 
 Send the transaction confirmation link to jean@ipe.city with the subject "crypto payment".
 
-\
+<br>

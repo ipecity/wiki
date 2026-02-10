@@ -1,41 +1,173 @@
 # 🏗️ What It Is
 
+### TLDR
 
+:earth\_americas: **Tickets and Program details:**  [**ipe.city/village2026**](https://ipe.city/village2026)
 
-:construction\_site: **APPLY FOR IPÊ CITY NOW** :arrow\_right: [**HERE**](https://tally.so/r/mVv09M)
+:moneybag: **Become a village partner:** [Sponsorship Deck](https://ipe.city/deck.pdf).
 
-:ticket: **BUY YOUR TICKETS FOR** :arrow\_right: [**IPÊ EXPLORER OR THE CONFERENCE**](https://ipe.city/#tickets)
-
-
-
-:earth\_americas: **Main website:**  [**ipe.city**](https://ipe.city)
-
-📄 **Read the** [Full Presentation here](https://www.canva.com/design/DAGcTaQjtBM/hcde6Hx1Wy0MQVvOL79MRw/view?utm_content=DAGcTaQjtBM\&utm_campaign=designshare\&utm_medium=link2\&utm_source=uniquelinks\&utlId=hfc00cafbcb)
-
-:moneybag: **Read the** [Sponsorship Deck](https://ipe.city/deck)&#x20;
-
-:calendar\_spiral: **When**: April 22nd to May 22nd.
+:calendar\_spiral: **When**: **April 06 to May 01**.
 
 :round\_pushpin:**Where:** [Founder Haus](https://maps.app.goo.gl/pDhugBPR5oFUKHF96), Jurere International - Florianópolis - Brazil.&#x20;
 
-:movie\_camera: **Watch** [The Network Society Documentary's first episode](https://www.youtube.com/watch?v=8KhnY7Uk2es) to get a fast introduction to the subject.
+:movie\_camera: **Watch** the [Network Society documentary](https://startupsociety.film/) for a quick intro to the subject.
 
-&#x20;:art: **Social Materials:** [Ipê Branding](https://www.figma.com/design/nNUYFNYrYsHDaQZfVA3GaS/Ip%C3%AA-City-Branding)&#x20;
+:art: **Social Materials:** [Ipê Branding Page](https://ipe.city/brand) **and** [**Figma Project**](https://www.figma.com/design/QyTj7En43tYvvH0sDOHVFE/Ip%C3%AA-City---Official-Branding?t=uu16QCvHy8UE0a8W-0)&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=vTv_AdvZ17g" %}
 
 ***
 
-Ipê Village is a month-long experimental city where selected global talents will colive, learn, and prototype solutions and a governance system for the city of the future, leveraging AI and blockchain technologies.
+**Ipê Village** is Brazil’s largest buildathon. A one-month pop-up city where hundreds of builders actually live together to prototype what an AI- and Crypto-native city looks like in the real world.
 
 {% hint style="warning" %}
 <mark style="background-color:yellow;">**It is a step forward in Ipê City's long-term plan to build social technologies for a new city. You can read more about the project in the next sections.**</mark>
 {% endhint %}
 
-We’ll **select** **creators, specialists, engineers, and entrepreneurs** to reimagine the city of the future and experiment with solutions for **governance, finance, education, and health** which we call **parallel institutions**.
+We **bring creators, specialists, technologists, and techno-optimists** to Floripa to design the city of the future and experiment with tech-based solutions for systems of **governance, education, coordination, identity, safety, healthcare,** and other **gov-related services**, which we call **parallel institutions**.
 
-Our main goals at the pop-up city are:
+## :white\_check\_mark:<mark style="background-color:yellow;">How does it work</mark>
 
-1. Fostering a **techno-optimistic culture** that believes in freedom, progress, and fairness;
-2. Prototype a **new governance system** and **parallel institutions** leveraging digital and decentralized technologies **to address longstanding societal challenges** such as chronic poverty, inefficient healthcare, and the rise of human rights violations.
+Ipê Village is a tech village in the North of Florianópolis/Brazil, with Hacker Houses running tech events and experiments for one month.&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=vIKIrpJ6Ok8" %}
+
+### <mark style="background-color:blue;">Venue & Accommodation</mark>
+
+**You book your own accommodation,** a Hotel room or Airbnb close to [Founder Haus](https://www.founderhaus.club/), ideally within a 15-min walk. You can coordinate with others on Telegram or Discord to share an Airbnb.
+
+**Address:** Av. dos Merlins, 156 - Jurerê Internacional, Florianópolis.&#x20;
+
+**Florianópolis, Floripa**, or as we prefer **"Island of Magic"**, is one of Brazil's largest tech hubs with 2,000+ startups, a thriving ecosystem for AI and crypto, stunning beaches, and a top destination for digital nomads.
+
+**Jurerê Internacional** is a beachfront neighborhood, famous for its high-end resorts and its unique private management, which guarantees exceptional maintenance, security, and amenities.&#x20;
+
+**Founder Haus**, the **main hub and coworking space. Take a** [_**3D tour here**_](https://my.matterport.com/show/?m=pYZjFDo8Dqs)**.**
+
+### <mark style="background-color:blue;">Passports</mark>
+
+You can join Ipê Village in two ways:
+
+* **Explorer Passport: to learn, connect, and experience**
+  * Access to coworking & events
+  * Daily breakfast
+  * Stay 1–4 weeks
+  * Keep working remotely
+  * 6-month community access
+* **Architect Passport: to build and ship**
+  * Everything from Explorer
+  * Access to grants & prizes
+  * Stay at least 3 weeks
+  * 1-year community access
+
+{% hint style="info" %}
+**A few notes about the experience:**
+
+* If you are an **Ipê Architect (3-week builder resident)**, we’ll require **weekly progress** of your project, and in the last week, **present your results** to the city residents, partners, and investors
+* Every **Ipê Architect** can **apply for grants** for projects and content.
+* There will be an open calendar to **organize your own events**, such as meetups, workshops, barbecues, parties, workouts, fitness sessions, tourism, and more.
+* During your stay, **you’ll be able to continue working remotely at your regular job** while participating in pop-up activities during your free time.
+{% endhint %}
+
+***
+
+## :date:<mark style="background-color:yellow;">Agenda</mark>
+
+
+
+* **Apr 6–9**: Onboarding, networking, early pitches. &#x20;
+* **Apr 10–11**: Startup Society Conference (leading voices on governance and tech)&#x20;
+* **Apr 12–30**: daily buildathons, building real apps for the community. Also, parallel official and community-driven events and tech experiences running in many Hacker Houses in the village. &#x20;
+* **May 1**: Demo Day + closing party&#x20;
+
+***
+
+## :house:<mark style="background-color:yellow;">Hacker Houses</mark>
+
+<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+Hacker Houses are the core hubs of Ipê Village.
+
+They function as focused laboratories where builders work, deploy real systems, learn, collaborate, and host events.
+
+The Houses will host topics about the most powerful emerging technologies:
+
+**AI House** — agents, LLMs, robotics, automation\
+**Onchain House** — Crypto, DAOs, DeFi, decentralized systems\
+**Privacy House** — cryptography, zero-knowledge systems\
+**Partner Houses** — infrastructure partners integrate their products
+
+***
+
+## :moneybag: <mark style="background-color:yellow;">Grants, Rewards, and Opportunities</mark>
+
+**Architect residents** are eligible for:
+
+* <mark style="background-color:green;">**$10k+ in grants and prizes**</mark>
+* <mark style="background-color:green;">**A fully funded residency at The Network School Singapore**</mark>
+* **Token rewards** tied to contributions
+* **Onchain reputation**
+* Access to job opportunities and talent-partners matching
+* Access to investors and partners
+
+***
+
+## :earth\_americas: <mark style="background-color:yellow;">Why Join Us?</mark>
+
+<mark style="background-color:blue;">**Build Real City Infrastructure**</mark>
+
+Design and deploy systems that run a real city, including digital identity, onchain governance, contribution tracking, grant distribution, public dashboards, marketplaces, and coordination tools. Your work is used by residents during the Village and can become permanent infrastructure for Ipê City and future internet-native cities.
+
+<mark style="background-color:blue;">**Access Grants, Funding, and Deployment Opportunities**</mark>
+
+Earn grants and rewards for building useful infrastructure. Top teams receive funding, ongoing support, and opportunities to continue developing their systems beyond the residency. Partners actively fund tools for identity, payments, governance, AI agents, data infrastructure, and public coordination.&#x20;
+
+{% hint style="info" %}
+**Architect residents** are eligible for:
+
+* <mark style="background-color:green;">**$10k+ in grants and prizes**</mark>
+* <mark style="background-color:green;">**A fully funded residency at The Network School Singapore**</mark>
+* **Token rewards** tied to contributions
+* **Onchain reputation**
+* Access to job opportunities and talent-partners matching
+* Access to investors and partners
+{% endhint %}
+
+<mark style="background-color:blue;">**Join a Global Community of Builders and Founders**</mark>
+
+Work alongside engineers, startup founders, protocol designers, researchers, and infrastructure teams from around the world. Collaborate inside Hacker Houses focused on AI, crypto, governance, privacy, and coordination, and form teams to build products, startups, and open infrastructure.
+
+<mark style="background-color:blue;">**Help Prototype the Core Systems of Internet-Native Cities**</mark>
+
+Experiment with new models for governance, public goods funding, digital identity, AI-assisted coordination, decentralized finance, and autonomous services. Contribute to building the operating systems of future cities, where services are programmable, transparent, and internet-native.
+
+***
+
+## :pencil:<mark style="background-color:yellow;">How to Join</mark>
+
+Follow these steps:
+
+#### 1️⃣ Secure Your Ticket&#x20;
+
+Go to the [Ipê Village Website](https://ipe.city/village2026) and get your ticket.
+
+#### 2️⃣ Fill out the Application Form (for Architects)&#x20;
+
+Read the application process on Luma carefully, fill it out, and wait for the result if you want to join as an Architect. For Explorer, just buy the ticket and book your accommodation.&#x20;
+
+#### 3️⃣ Join our Ipê [Discord Server](https://discord.gg/QKwh8deMPx) and our [Telegram](https://t.me/+kmGbiSj7XFRhZjUx)
+
+You will be granted access to Ipê Village channels to connect with other residents.
+
+#### 4️⃣ Book Your Stay
+
+Residents are responsible for their own accommodation. You can book a hotel or Airbnb. To optimize costs, you can coordinate with other residents to share a house or room. You should stay near the [Founder Haus](https://maps.app.goo.gl/CvcofEdgswG2k5o57) address, within a maximum of a 10-minute walk.
+
+#### You Are All Set Up!
+
+Now, reserve your flight if needed, and be ready to build a new city.
+
+***
 
 ## :rocket: <mark style="background-color:yellow;">Why Is It Important</mark>
 
@@ -58,88 +190,11 @@ Could they also build new cities and governance systems?
 
 We believe they can.
 
-## :white\_check\_mark:<mark style="background-color:yellow;">How Is It Gonna Work</mark>
+## :rocket: <mark style="background-color:yellow;">Our Main Goals</mark>
 
-Over this month, you have access to a 3-day Conference, Weekly Buildathons, and several small summits, workshops, meetups, fitness sessions, and other fun activities.
+Our main goals at the pop-up city are:
 
-**Week 1 - Onboarding, Networking and Startup Society Conference II (April 25th - April 27th) -** talks and panel sessions with thought leaders and entrepreneurs from the startup society, crypto and AI industries.
+1. Fostering a **techno-optimistic culture** that believes in freedom, progress, and fairness;
+2. Prototype a **new governance system** and **parallel institutions** using digital and decentralized technologies **to address longstanding societal challenges** such as chronic poverty, inefficient governments, and the rise of human rights violations.
 
-**Week 2 - Week 4 (Weekly Buildathons)** - co-create alongside other Ipê Architects tech solutions for Health, Education, Governance, and Finance. Each week, you'll have the opportunity to pitch an idea to the community, build a prototype solo or with a team, and showcase it at the end.
-
-**A few notes about the experience:**
-
-* If you are an **Ipê Architect (3-week builder resident)**, we’ll require **weekly progress** of your project, and in the last week, **present your results** to the city residents, partners, and investors
-* Every **Ipê Architect** can **apply for grants** for projects and content.
-* There will be an open calendar to **organize your own events**, such as meetups, workshops, barbecues, parties, workouts, fitness sessions, tourism, and more.
-* During your stay, **you’ll be able to continue working remotely at your regular job** while participating in popup activities during your free time.
-
-## :round\_pushpin:<mark style="background-color:yellow;">What Is The Venue / Accommodation</mark>
-
-The pop-up village will take place from April 22nd and May 22nd in the Jurerê International neighborhood in Florianópolis/Brazil.&#x20;
-
-**Florianópolis** city **Floripa**, "Silicon Island" or as we prefer “Island of Magic”, is one of Brazil's largest tech hubs with 2,000+ startups, a thriving ecosystem for AI and crypto, stunning beaches, and a top destination for digital nomads.
-
-**Jurerê Internacional** is a beachfront neighborhood, famous for its high-end resorts and its unique private management, which guarantees exceptional maintenance, security, and amenities.&#x20;
-
-The **main hub and coworking space is Founder Haus.**&#x20;
-
-**Take a** [_**3D tour here**_](https://my.matterport.com/show/?m=pYZjFDo8Dqs)**.**
-
-<mark style="background-color:orange;">**Accommodation**</mark>**: The neighborhood has plenty of options for housing, from luxurious hotels to very comfortable Airbnbs. Search directly on** [**Airbnb.com**](https://airbnb.com) **and** [**Booking.com**](https://booking.com)**.**
-
-Book a Hotel room or Airbnb close (máx 10-min walk) to the [Founder Haus ](https://maps.app.goo.gl/PYVCpwDSCQZ2eDnv9)(Av. dos Merlins, 156 - Jurerê Internacional, Florianópolis).&#x20;
-
-We suggest you coordinate in our telegram with other residents to share a house or room.
-
-## :earth\_americas: <mark style="background-color:yellow;">Why Join Us?</mark>
-
-#### :computer: Make a Positive Impact with Technology, not Conventional Politics
-
-Startup societies create leaner governments, include the community at the core of the decision-making, and drive social development for the underprivileged.
-
-:student: **Learn and Earn**
-
-Learn about the crypto, AI, and startup society ecosystem; and complete tasks and build projects to earn grants and other rewards.
-
-#### :moneybag: Business and Career Opportunities
-
-Build projects in a space with abundant funding and partnership opportunities. Expose your skills in practical projects, earn credentials, and connect with great job opportunities.
-
-#### :people\_holding\_hands: Connect with Like-Minded Ambitious People
-
-Meet optimistic and talented people who value innovation, freedom, and progress. Connect with builders from around the world with diverse backgrounds and pluralistic cultures.
-
-## :pencil:<mark style="background-color:yellow;">How to Apply</mark>
-
-Follow these steps:
-
-#### 1️⃣ Pre-register at the Luma Event&#x20;
-
-Go to the [Luma Event](https://lu.ma/s331m12v) and pre-register, filling out your email, and social media accounts.
-
-#### 2️⃣ Fill out the Application Form&#x20;
-
-:arrow\_forward: [APPLY HERE](https://tally.so/r/mVv09M). Read it carefully, fill it out, and wait for the result.
-
-#### 3️⃣ Ipê Passport:
-
-Within 48 hours, you will receive your response. If approved, you will also receive a link for payment.
-
-#### 4️⃣ Join our Ipê [Discord Server](https://discord.gg/QKwh8deMPx) and our [Telegram](https://t.me/+kmGbiSj7XFRhZjUx)
-
-You will be granted access to Ipê Village channels to connect with other residents.
-
-#### 5️⃣ Book Your Stay
-
-Residents are responsible for hosting. You can book a hotel or Airbnb. To optimize costs, you can coordinate with other residents to share a house or room. You should stay near the [Founder Haus](https://maps.app.goo.gl/CvcofEdgswG2k5o57) address, within a maximum of a 10-minute walk.
-
-#### 6️⃣ You Are All Set Up!
-
-Now, reserve your flight if needed, and be ready to build a new city.
-
-
-
-
-
-
-
+To understand the long term view, read the next sections and pages.

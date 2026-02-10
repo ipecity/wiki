@@ -2,20 +2,6 @@
 description: This is a work-in-progress documentation about our community.
 cover: .gitbook/assets/Ipê CAST (Presentation) (8).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🌼 What is Ipê City
