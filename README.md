@@ -116,6 +116,8 @@ Design and deploy systems that run a real city, including digital identity, onch
 
 Earn grants, token rewards, and funding for building useful infrastructure. Contributions are tracked onchain, allowing builders to earn tokens tied to their work and impact. Top teams receive financial support, ongoing backing, and opportunities to continue developing their systems beyond the residency.&#x20;
 
+Learn more about the grants here: [https://www.ipe.city/grants](https://www.ipe.city/grants)
+
 {% hint style="info" %}
 **Architect residents** are eligible for:
 
