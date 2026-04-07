@@ -92,17 +92,17 @@ They function as focused laboratories where builders work, deploy real systems, 
 
 The Houses will host topics about the most powerful emerging technologies:
 
-#### <mark style="color:$success;">**AI House**</mark> — agents, LLMs, robotics, automation
+#### **AI House** — agents, LLMs, robotics, automation
 
 [R. da Anchôva, 315 - Jurerê Internacional, Florianópolis - SC, 88053-354](https://www.google.com/maps/place/R.+da+Anch%C3%B4va,+315+-+Jurer%C3%AA+Internacional,+Florian%C3%B3polis+-+SC,+88053-354,+Brazil/@-27.4374791,-48.5048955,834m/data=!3m2!1e3!4b1!4m6!3m5!1s0x952744f59307363d:0xb267e36f34b2380!8m2!3d-27.4374791!4d-48.5023206!16s%2Fg%2F11h77dr3fk?entry=ttu\&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D)
 
-#### <mark style="color:$success;">**Privacy House**</mark> — cryptography, zero-knowledge systems
+#### **Privacy House** — cryptography, zero-knowledge systems
 
 [R. dos Corais, 244 - Jurerê Internacional, Florianópolis - SC, 88053-440](https://www.google.com/maps/place/R.+dos+Corais,+244+-+Jurer%C3%AA+Internacional,+Florian%C3%B3polis+-+SC,+88053-440,+Brazil/@-27.4412058,-48.5077917,834m/data=!3m2!1e3!4b1!4m6!3m5!1s0x95274458e66932a5:0xa9334178b9c93739!8m2!3d-27.4412058!4d-48.5052168!16s%2Fg%2F11rvfyfs4m?entry=ttu\&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D)\
 **Wi-Fi network name:** marcelo German\
 **Password:** marcelogerman\
 \
-<mark style="color:$success;">**Partner Houses**</mark> — infrastructure partners integrate their products
+**Partner Houses** — infrastructure partners integrate their products
 
 ***
 
