@@ -73,12 +73,12 @@ You can join Ipê Village in two ways:
 
 ## :date:<mark style="background-color:yellow;">Agenda</mark>
 
-
-
 * **Apr 6–9**: Onboarding, networking, early pitches. &#x20;
 * **Apr 10–11**: Startup Society Conference (leading voices on governance and tech)&#x20;
 * **Apr 12–30**: daily buildathons, building real apps for the community. Also, parallel official and community-driven events and tech experiences running in many Hacker Houses in the village. &#x20;
 * **May 1**: Demo Day + closing party&#x20;
+
+Keep up with all the events on the [Ipê Village Calendar](https://luma.com/ipecity).
 
 ***
 
