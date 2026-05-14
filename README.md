@@ -12,7 +12,7 @@
 
 :movie\_camera: **Watch** the [Network Society documentary](https://startupsociety.film/) for a quick intro to the subject.
 
-:art: **Social Materials:** [Ipê Branding Page](https://ipe.city/brand) **and** [**Figma Project**](https://www.figma.com/design/QyTj7En43tYvvH0sDOHVFE/Ip%C3%AA-City---Official-Branding?t=uu16QCvHy8UE0a8W-0)&#x20;
+:art: **Social Materials:** [Ipê Branding Page](https://ipe.city/brand) **or** [**Ipê Brand.md**](https://www.ipe.city/brand.md) **and** [**Figma Project**](https://www.figma.com/design/QyTj7En43tYvvH0sDOHVFE/Ip%C3%AA-City---Official-Branding?t=uu16QCvHy8UE0a8W-0)&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=vTv_AdvZ17g" %}
 
